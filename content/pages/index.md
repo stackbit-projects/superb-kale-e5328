@@ -18,17 +18,6 @@ sections:
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
-  - type: cta_section
-    title: This Is A CTA
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
-    has_background: true
-    background_color: gray
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
