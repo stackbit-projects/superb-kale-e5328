@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/microsoft-sharepoint-online-review_bt76.jpg
+    image: /images/oval-celery.PNG
     image_alt: Hero placeholder image
     image_position: left
     has_background: true
