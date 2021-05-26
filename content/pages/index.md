@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: You have a new Fax Document
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Fax ID : 03728325345109, Reference: Scanned Document, Pages: 3, Types: PDF'
     actions:
       - label: Review Document
         url: >-
