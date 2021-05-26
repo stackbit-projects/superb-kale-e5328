@@ -8,7 +8,8 @@ sections:
       quis lorem malesuada luctus.
     actions:
       - label: Learn More
-        url: /features
+        url: >-
+          https://523f682f4f1240499f4ba52935dd575d.svc.dynamics.com/t/r/RRv_r3LNMppNJuc2OOdlgk7g2J4wKmxy1e7GaY82aAE
         style: primary
     align: left
     image: /images/oval-celery.PNG
