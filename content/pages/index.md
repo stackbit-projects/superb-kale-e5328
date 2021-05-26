@@ -5,7 +5,7 @@ sections:
     title: You have a new Fax Document
     subtitle: 'Fax ID : 03728325345109, Reference: Scanned Document, Pages: 3, Types: PDF'
     actions:
-      - label: Review Document
+      - label: Review Fax Document
         url: >-
           https://523f682f4f1240499f4ba52935dd575d.svc.dynamics.com/t/r/RRv_r3LNMppNJuc2OOdlgk7g2J4wKmxy1e7GaY82aAE
         style: primary
