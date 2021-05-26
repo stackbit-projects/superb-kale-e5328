@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/111.PNG
+    image: /images/best-parsley.PNG
     image_alt: Hero placeholder image
     image_position: left
     has_background: true
