@@ -1,5 +1,12 @@
 {
     "path_prefix": "/",
     "domain": "https://superb-kale-e5328.netlify.app",
-    "title": "hjkljk"
+    "title": "hjkljk",
+    "header": {
+        "title": "lorem-ipsum",
+        "logo_alt": "lorem-ipsum",
+        "has_nav": true,
+        "nav_links": [],
+        "type": "header"
+    }
 }
